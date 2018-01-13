@@ -1,0 +1,64 @@
+/*
+Theme Name: Shalimar
+Theme URI: http://wordpress.org/
+Author: Tanmoy Biswas
+Author URI: http://tanmoyb.com/
+Description: Shalimar is my friends company.This theme is developed by me
+Version: 1.0
+License: MIT
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: shalimardomain
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+/** Tanmoy's modifys CSS **/
+/*-----------------------------------------------------
+                  Camera Slider
+-----------------------------------------------------*/
+.camera_effected{
+  margin-top: 15% !important;
+  text-align: center;
+}
+
+.camera_effected h1 span{
+  font-size: 34px;
+  font-weight: 700;
+  color: #fff;
+  padding: inherit 12px;
+  background-color: rgba(0,0,0,0.2);
+}
+.camera_effected span{
+  padding: inherit 32px;
+  font-size: 20px;
+  color: #FFEB3B;
+  background-color: rgba(0,0,0,0.2);
+}
+
+.camera_effected code{
+  width: 10px;
+  display: inline-block;
+}
+
+
+.camera_wrap{
+  margin-bottom: 95px;
+  height: 575px;
+  display: block;
+}
+
+/* Protfolio Section */
+.filtersection {}
+.filtersection img{
+  width: 100%;
+  max-width: 100%;
+}
+.filtersection a,
+.filtersection a:link,
+.filtersection a:visited,
+.filtersection a:hover,
+.filtersection a:active{
+  color: #fff
+}

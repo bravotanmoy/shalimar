@@ -1,0 +1,80 @@
+/*
+Theme Name: Shalimar Exports
+Theme URI: http://www.shalimarexports.com/
+Author: Tanmoy Biswas
+Author URI: http://tanmoyb.com/
+Description: Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: tanmoyb
+Tags:   layer-slider, one-page
+
+
+*/
+
+
+/***********************************
+         Layer Slider
+************************************/
+/*Slider*/
+#layerslider{
+
+}
+
+.line{height:100%}
+
+.slider-wrapper{width: 100%; height: 100%;float:left; overflow: hidden}
+
+
+.ls-slide{}
+
+/*Slider Pagination*/
+.ls-bottom-nav-wrapper{bottom: 60px}
+
+.ls-nav-start,
+.ls-nav-stop{display: none !important;}
+
+.ls-bottom-slidebuttons{
+    top: 0;
+}
+
+.ls-bottom-slidebuttons a{
+    display: block;
+    width: 20px !important;
+    height: 4px !important;
+    margin: 0 7px;
+    background-color: #c19e9f;
+    border-radius: 0;
+}
+
+.ls-nav-active{background-color: #fff !important}
+
+
+.slick-text{
+    font-family:"Roboto",sans-serif;
+    font-size: 29px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.due-respect .slick-text:first-child{}
+.due-respect .slick-text:last-child{top: 52%;right: -19%}
+
+.slick-text{
+    top: 45%;
+    left: 0;
+    right: 0;
+    margin: 0 auto !important;
+    width: auto;
+}
+
+.slick-text strong{
+    font-size: 35px;
+    color: #fff;
+    text-shadow: 1px 1px 2px black, 0 0 25px #F57C00, 0 0 5px #F57C00;
+}
+
+.ls-bottom-slidebuttons{top: 15px !important}
+
+/*#bravo{display: none}*/

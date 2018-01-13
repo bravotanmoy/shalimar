@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/image change by JS/.idea/image change by JS.iml" filepath="$USER_HOME$/Desktop/image change by JS/.idea/image change by JS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../recipes/.idea/recipes.iml" filepath="$PROJECT_DIR$/../recipes/.idea/recipes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shalimar-theme.iml" filepath="$PROJECT_DIR$/.idea/shalimar-theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tanmoy/.idea/tanmoy.iml" filepath="$PROJECT_DIR$/../tanmoy/.idea/tanmoy.iml" />
+    </modules>
+  </component>
+</project>
